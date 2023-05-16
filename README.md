@@ -1,1 +1,1 @@
-## Corrigindo código - Node.js, cors e express
+## Corrigindo código - Node.js, express
